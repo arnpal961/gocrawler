@@ -1,0 +1,2 @@
+It is a text file.
+Used for reading purpose from go.
